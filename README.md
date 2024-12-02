@@ -20,18 +20,24 @@ Implement an AI solution that establishes a frame work to enhance carbon capture
 4. Optimal carbon storage reservoir management - Deals with the many obstacles of carbon storage to effectively store and make available stored carbon.
 5. AI reutilization (Sell it to another end users downstream on the chain) - The transfer of the stored carbon for reuse.
 6. Trade Carbon Credits - Platform to trade and buy carbon credits.
-Scope: A detailed description of what the project will deliver, including boundaries and limitations
+
+Scope:
 The project will include an outline solution of the carbon capture cycle. A prototype to show companies of the possibilities that our model can produce. The data we are using to create our model is not production level data and is more to showcase the ability of our model.
-Methodology: The strategy and processes that will be used to complete the project (may include phases, tasks, and timelines).
+
+Methodology:
 We will implement a waterfall approach of handling each step of the model separately and sequentially. We are going to use timelines to appropriately handle each phase in a timely manner for completion. We will have the common 5 phases of our model.
-Resources: The personnel, equipment, and materials required to complete the project.
+
+Resources: 
 We were supplied a set of data sets and the idea from the carbon capture competition we entered.
 We found resources to implement AI algorithms and books from professionals in which we took ideas from.
-Risk management: Identification of potential risks and strategies for mitigating them
+
+Risk management: 
 The risk is that the solution might be too complex to complete on time, so in order to mitigate this risk we have to follow guidelines.
 The data sets given by the competition might be too general, so a specific solution might not be possible.
-Benefits: Expected positive outcome and impacts of the project
+
+Benefits: 
 The expected benefit outcome of this project is that we will establish a framework solution to the real world problem that is of carbon capture based on an AI solution. We will impact the oil and gas industry by generating a solution they can implement themselves based on the work we do on this project.
+
 Conclusion: 
 The carbon offsetting represent critical components in the global effort to combat climate
 change, offering pathways to significantly reduce atmospheric CO2 levels. 
